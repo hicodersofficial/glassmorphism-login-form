@@ -2,4 +2,4 @@
 
 Glassmorphism login form
 
-## [See Like](https://codepen.io/hicoders/pen/eYdwVmb)
+## [See Live](https://codepen.io/hicoders/pen/eYdwVmb)
